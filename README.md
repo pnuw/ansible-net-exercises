@@ -4,9 +4,11 @@ Write playbooks to satisfy the following requirements. Use a host group named `p
 
 Also after writing each playbook, please answer the following questions. Put the answers as comments on top of the file. A comment in yaml starts with #:
 
-1. How many times did you have to leave your VS Code environment to complete this task?
-1. List all the sources you used to complete this task.
-1. How long did it take to complete this task?
+```bash
+# How many times did you have to leave your VS Code environment to complete this task?
+# List all the sources you used to complete this task.
+# How long did it take to complete this task?
+```
 
 ## Problem Set
 
